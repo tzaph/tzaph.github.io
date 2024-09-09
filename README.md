@@ -4,21 +4,7 @@ A website with content of multiple subjects. Most of these are personal notes, a
 
 ## What subjects?
 
-All of these are to be added, listed from the most important content.
-
-- Competitive Programming from basic to advanced (prioritizing Indonesia language)
-- Competitive Programming weekly problems
-- Computer Science fundamentals outside programming
-	- Memory and OS
-	- Low level C/C++
-	- Parallel/Concurrent Programming
-	- Networking (?)
-	- AI/ML/Bot programming (?)
-	- Sound computing (?)
-	- Bioinformatics (?)
-	- Other niche subjects (?)
-- ~~Birdwatching (and biodiversity) nerd ranting~~
-- Basic portfolio of myself
+Idk lol, but birdwatching stuff will be here for sure.
 
 ## Want to discuss and contribute?
 
